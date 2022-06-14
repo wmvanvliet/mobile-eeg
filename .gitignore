@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# VIM
+.*.swp
+
+# Project specific
+data/
